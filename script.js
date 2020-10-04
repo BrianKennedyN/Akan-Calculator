@@ -26,7 +26,7 @@ function giveAkanName () {
     }
 
     else if(month =2 || day > 29){
-        alert("February has 28 or 29 days, but hypothetically speaking, if February had date 30 and 31, your Akan name would be")
+        alert("February has 28 or 29 days, but hypothetically speaking, if February had date 30 and 31, your Akan name would be 👇")
     }
     
 
