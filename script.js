@@ -25,6 +25,11 @@ function giveAkanName () {
         alert("Invalid Input!");
     }
 
+    else if(month =2 || day > 29){
+        alert("February has 28 or 29 days")
+    }
+    
+
 
     if(gender ==="male" && year > 0 && month > 0 && month < 13 && day > 0 && day < 32){
         akanName = maleNames[dayBorn];
