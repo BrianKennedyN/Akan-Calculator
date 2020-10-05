@@ -25,9 +25,9 @@ function giveAkanName () {
         alert("Invalid Input!");
     }
 
-    else if(month =2 || day > 29){
-        alert("February has 28 or 29 days, hypothetically speaking, if February had date 30 and 31, click OK to find out what your Akan name would be ")
-    }
+    // if(month =2 || day > 29){
+    //     alert("February has 28 or 29 days, hypothetically speaking, if February had date 30 and 31, click OK to find out what your Akan name would be ")
+    // }
     
 
 
